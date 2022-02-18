@@ -1,0 +1,13 @@
+.image{
+  object-fit: contain;
+}
+
+.bigImg{
+  height: 300px;
+}
+
+.smImg{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
